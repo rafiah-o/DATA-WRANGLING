@@ -13,7 +13,7 @@ Image Prediction: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd
 Tweets - https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt
 
 
-#Summary
+## Summary
 I adopted the Define-Code-Test approach to Identify, assess and clean eight data quality issues and three data tidiness issues.
 
 QUALITY:
@@ -33,7 +33,7 @@ Merge the three datasets into one
 
 
 
-#Insights:
+## Insights:
 - Majority of the tweet has one image
 - The average retweet_count has the highest value in June
 - November has the least average  retweet_count
