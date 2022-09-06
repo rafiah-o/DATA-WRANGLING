@@ -7,7 +7,9 @@
 This project aimed at identifying, assessing and cleaning data quality and data tidiness issues. Three datasets were used and can be found below;
 
 Tweets Archive: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/59a4e958_twitter-archive-enhanced/twitter-archive-enhanced.csv
+
 Image Prediction: https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv
+
 Tweets - https://video.udacity-data.com/topher/2018/November/5be5fb7d_tweet-json/tweet-json.txt
 
 
